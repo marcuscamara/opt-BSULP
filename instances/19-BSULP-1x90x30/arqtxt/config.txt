@@ -1,0 +1,10 @@
+P: 90
+S: 30
+N: 1
+Q: 1
+Csp: 1.0000
+Gamma: 999999
+Theta: 999999
+Max: 30
+QTDPn: 90
+delta[Q]: 1000
